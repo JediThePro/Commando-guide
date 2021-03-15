@@ -30,5 +30,5 @@ sqlite.open(path.join(__dirname, "settings.sqlite3")).then((db) => {
 });
 ```
 
-And there, an sqlite provider.
+And there, a sqlite provider.
 
